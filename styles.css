@@ -1,0 +1,9 @@
+.path-mod-protectedpdf .protectedpdfcontent {text-align: center;}
+
+.path-mod-protectedpdf .protectedpdfdetails {font-size: 0.8em; color: #555;}
+
+.protectedpdflinkdetails {font-size: 0.8em; color: #555;}
+
+body#page-mod-protectedpdf-mod form input#id_submitbutton{
+    display: none;
+}
